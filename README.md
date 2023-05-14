@@ -1,3 +1,5 @@
+# NODE FARM
+
 Node Farm - A simple web app from: Node.js, Express, MongoDB & More: The Complete Bootcamp 2023, to learn about:
 
 Fundamentals of Node.js, core modules, and NPM (Node Package Manager).
@@ -6,6 +8,6 @@ Fundamentals of Express (Node.js framework): routing, middleware, sending respon
 Server-side website rendering (HTML) with Pug templates.
 
 How to run the app at cmd:
-npm install ->
-node index.js  ->
-Open local server: 127.0.0.1:8000
+- npm install
+- node index.js
+- Open local server: 127.0.0.1:8000
