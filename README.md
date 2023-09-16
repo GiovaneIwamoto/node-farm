@@ -17,7 +17,7 @@ How to run the app at cmd:
 
 - Open local server: 127.0.0.1:8000
 
-#### **AUTHOR**
+### **AUTHOR**
 
 - Giovane Hashinokuti Iwamoto - Computer Science student at UFMS - Brazil - MS
 
